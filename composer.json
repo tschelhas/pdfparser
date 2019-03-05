@@ -18,7 +18,7 @@
         "php": ">=5.3.0",
         "ext-mbstring": "*",
         "ext-zlib": "*",
-        "tecnickcom/tcpdf": "~6.0"
+        "tecnickcom/tc-lib-pdf-parser": "^2.3"
     },
     "require-dev": {
         "atoum/atoum": "^2.8 | ^3.0"
